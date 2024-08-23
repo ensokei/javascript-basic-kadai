@@ -1,9 +1,13 @@
 let height;
 
-height='1.6';
+height=1.6;
 
 let weight;
 
-weight='80';
+weight=80;
 
-console.log(weight/(height*height))
+let bMi;
+
+bMi=weight/(height*height);
+
+console.log(bMi);
