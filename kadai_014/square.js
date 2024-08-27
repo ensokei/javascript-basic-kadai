@@ -1,4 +1,4 @@
 const square=(num)=>{
-    console.log(num **2);
+    return num **2;
 }
-square(8);
+console.log(square(8));
